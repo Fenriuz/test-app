@@ -16,6 +16,7 @@ export default function EditScreenInfo({ path }: { path: string }) {
           darkColor="rgba(255,255,255,0.8)">
           UWwwwwwwwwwwwwwwwwwwU
           Open up the code for this screen:
+          mentira son guapos. uwu
         </Text>
 
         <View
