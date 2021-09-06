@@ -33,6 +33,13 @@ export default function TabTwoScreen() {
   );
 }
 
+// Discard if it generates conflicts.
+// Discard if it generates conflicts.
+// Discard if it generates conflicts.
+// Discard if it generates conflicts.
+// Discard if it generates conflicts.
+// Discard if it generates conflicts.
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
@@ -40,3 +47,4 @@ const styles = StyleSheet.create({
     justifyContent: "center",
   },
 });
+// Discard if it generates conflicts.
