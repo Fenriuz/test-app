@@ -4,11 +4,21 @@ import { Platform, StyleSheet } from 'react-native';
 
 import EditScreenInfo from '../components/EditScreenInfo';
 import { Text, View } from '../components/Themed';
+// Discard if it generates conflicts.
+// Discard if it generates conflicts.
+// Discard if it generates conflicts.
 
 export default function ModalScreen() {
+  // Discard if it generates conflicts.
+  // Discard if it generates conflicts.
+  // Discard if it generates conflicts.
+  // Discard if it generates conflicts.
+  // Discard if it generates conflicts.
+  // Discard if it generates conflicts.
+
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Modal</Text>
+      <Text style={styles.title}>Modal. dot</Text>
       <View style={styles.separator} lightColor="#eee" darkColor="rgba(255,255,255,0.1)" />
       <EditScreenInfo path="/screens/ModalScreen.tsx" />
 
@@ -17,6 +27,12 @@ export default function ModalScreen() {
     </View>
   );
 }
+
+// Discard if it generates conflicts.
+// Discard if it generates conflicts.
+// Discard if it generates conflicts.
+// Discard if it generates conflicts.
+
 
 const styles = StyleSheet.create({
   container: {
